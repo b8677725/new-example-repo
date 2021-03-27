@@ -1,0 +1,6 @@
+...
+leyout: home
+...
+
+Welcome to the new blog!
+
